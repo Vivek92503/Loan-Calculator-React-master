@@ -32,3 +32,7 @@ node-sass
 react-hook
 localstorage
 html5
+
+### License
+
+This project is licensed under the [MIT License](opensource.org/licenses/MIT).
