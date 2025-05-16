@@ -29,25 +29,6 @@ A responsive and interactive loan calculator built using **React**, which helps 
 
 ---
 
-## 📂 Folder Structure
-
-```
-
-Loan-Calculator-React-master/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── LeftSideBar/
-│   │   └── MainBox/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
-
-````
 
 ---
 
