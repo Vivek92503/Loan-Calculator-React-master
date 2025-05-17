@@ -9,7 +9,7 @@ A responsive React-based loan calculator that computes monthly EMI, total paymen
 - [Available Scripts](#available-scripts)
 - [Deployment](#deployment)
 - [Future Enhancements](#future-enhancements)
-- [notes](#notes)
+- [Notes](#notes)
 - [License](#license)
 
 # Introduction
