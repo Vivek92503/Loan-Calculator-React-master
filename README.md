@@ -10,7 +10,6 @@ A responsive React-based loan calculator that computes monthly EMI, total paymen
 - [Deployment](#deployment)
 - [Future Enhancements](#future-enhancements)
 - [notes](#notes)
-- [Acknowledgements](#acknowledgements)
 - [License](#license)
 
 # Introduction
@@ -85,12 +84,6 @@ The optimized static files will be output to the `build` directory, ready to be 
 - Make sure Node.js and npm are installed before running this project.
 - This app was bootstrapped using Create React App.
 - Documentation is also included as a `.docx` file in the root directory.
-
-# Acknowledgements
-
-- React documentation – [https://reactjs.org](https://reactjs.org)
-- Create React App – [https://create-react-app.dev](https://create-react-app.dev)
-- Icons and design inspiration from open-source communities
 
 # License
 
